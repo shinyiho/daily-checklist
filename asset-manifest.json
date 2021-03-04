@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/daily-checklist/static/css/main.0a394106.chunk.css",
-    "main.js": "/daily-checklist/static/js/main.8d941b2a.chunk.js",
-    "main.js.map": "/daily-checklist/static/js/main.8d941b2a.chunk.js.map",
+    "main.js": "/daily-checklist/static/js/main.df6e65f0.chunk.js",
+    "main.js.map": "/daily-checklist/static/js/main.df6e65f0.chunk.js.map",
     "runtime-main.js": "/daily-checklist/static/js/runtime-main.fc93b305.js",
     "runtime-main.js.map": "/daily-checklist/static/js/runtime-main.fc93b305.js.map",
     "static/js/2.d4efae4a.chunk.js": "/daily-checklist/static/js/2.d4efae4a.chunk.js",
     "static/js/2.d4efae4a.chunk.js.map": "/daily-checklist/static/js/2.d4efae4a.chunk.js.map",
     "index.html": "/daily-checklist/index.html",
-    "precache-manifest.29cd84bf1da09b6d00bc1ab7479fcb1b.js": "/daily-checklist/precache-manifest.29cd84bf1da09b6d00bc1ab7479fcb1b.js",
+    "precache-manifest.59b96c3a96fa0db62ef68cd3767f000b.js": "/daily-checklist/precache-manifest.59b96c3a96fa0db62ef68cd3767f000b.js",
     "service-worker.js": "/daily-checklist/service-worker.js",
     "static/css/main.0a394106.chunk.css.map": "/daily-checklist/static/css/main.0a394106.chunk.css.map",
     "static/js/2.d4efae4a.chunk.js.LICENSE.txt": "/daily-checklist/static/js/2.d4efae4a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fc93b305.js",
     "static/js/2.d4efae4a.chunk.js",
     "static/css/main.0a394106.chunk.css",
-    "static/js/main.8d941b2a.chunk.js"
+    "static/js/main.df6e65f0.chunk.js"
   ]
 }
