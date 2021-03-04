@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BrowserRouter, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import "./App.css";
 import Todos from "./Component/Todos";
 import Header from "./Component/Header";
@@ -44,12 +44,12 @@ class App extends Component {
 
   render() {
     return (
-      <BrowserRouter>
+      <Router>
         <div className="app">
           <Header />
           <Route
             exact
-            path="/"
+            path="/daily-checklist"
             render={(props) => (
               <React.Fragment>
                 <Addtodo onsubmit={this.onsubmit} />
@@ -57,9 +57,9 @@ class App extends Component {
               </React.Fragment>
             )}
           />
-          <Route path="/About" component={About} />
+          <Route path="/daily-checklist/About" component={About} />
         </div>
-      </BrowserRouter>
+      </Router>
     );
   }
 }
